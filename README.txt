@@ -1,0 +1,1 @@
+﻿Program detects face and marks it with a frame.
